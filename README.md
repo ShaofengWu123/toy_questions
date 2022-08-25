@@ -1,2 +1,2 @@
-# toy_questions
-A repo consists of coding solution to interesting problems. 
+# Introduction
+A repo consists of coding solution to interesting problems. For practice and recording.
