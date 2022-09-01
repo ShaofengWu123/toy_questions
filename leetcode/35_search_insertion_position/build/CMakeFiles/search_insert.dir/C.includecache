@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sfwu22/workspace/toy_questions/leetcode/35_search_insertion_position/search_insert.c
+stdio.h
+-
+stdlib.h
+-
+

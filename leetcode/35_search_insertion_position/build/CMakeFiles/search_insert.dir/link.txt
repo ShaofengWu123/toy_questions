@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/search_insert.dir/search_insert.c.o  -o search_insert 
